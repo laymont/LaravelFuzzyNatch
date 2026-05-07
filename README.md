@@ -157,6 +157,33 @@ El paquete incluye tests unitarios para cada algoritmo y el servicio principal.
 ./vendor/bin/pest
 ```
 
+## Contribución
+
+1. Haz un fork del repositorio.
+2. Crea una rama: `git checkout -b feature/nueva-funcionalidad`.
+3. Realiza cambios y hace commit: `git commit -m "Agregando..."`.
+4. Sube: `git push origin feature/nueva-funcionalidad`.
+5. Abre un Pull Request.
+
+## Donaciones
+
+Si encuentras útil este paquete y deseas apoyar su desarrollo y mantenimiento, puedes considerar hacer una donación.
+
+### Zinli
+
+- **ID de usuario:** 3-002-58546608-36
+- **Recargar:** https://recargas.zinli.com/4nVRQUniFdK8DBfPzzfyzR
+
+### Visa Prepagada Zinli
+
+- **Número:** 4850460061276928
+
+### Binance Pay
+
+- **Binance Pay ID:** 206414132
+
+¡Gracias por tu apoyo!
+
 ## Licencia
 
 MIT.
