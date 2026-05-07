@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2026-05-07
+## [1.0.1] - 2026-05-07
+
+### Cambiado
+- Actualizado `illuminate/support` a `^13.0` para soporte de Laravel 13.
+
+## [1.0.0] - 2026-05-07
 
 ### Nuevo
 - Estructura base del paquete.

@@ -15,7 +15,7 @@ Este paquete proporciona algoritmos de coincidencia aproximada de strings (fuzzy
 - **Facade conveniente** para uso simple
 - **Configuración flexible** para ajustar algoritmos y umbrales
 - **Sin dependencias externas** (usa funciones nativas de PHP donde sea posible)
-- **Compatible con Laravel 12+ y PHP 8.2+**
+- **Compatible con Laravel 13+ y PHP 8.2+**
 
 ## Instalación
 
@@ -147,7 +147,7 @@ public function rules()
 ## Compatibilidad
 
 - PHP: `^8.2`
-- Laravel: `^12.0`
+- Laravel: `^13.0`
 
 ## Testing
 
